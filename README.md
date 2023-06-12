@@ -1,4 +1,4 @@
-# CarlosGermanoGasparelhodDeSouza(RA:2840482221044)eMurilloLeoni(RA:2840482221010)
+# CarlosGermanoGasparelhoDeSouza(RA:2840482221044) e MurilloLeoni(RA:2840482221010)
 //Projeto Avaliativo Semestral - Vending Machine
 
 
